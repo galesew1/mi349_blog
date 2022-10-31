@@ -21,6 +21,9 @@ p {
 #blog {
     border-top: 2px dotted #747474;
 }
+#about_me {
+    border-top: 2px dotted #747474;
+}
 .blog-post {
     border-bottom: 2px dotted #747474;
 }
